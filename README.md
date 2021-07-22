@@ -1,5 +1,5 @@
-# Hello-world
-Just a repository
+# MTH 305 Project
+Analyzing top MLB pitchers based off stuff
 
 
-Testing and learning on Github
+Data pulled from 2019 MLB season to build model
