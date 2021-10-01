@@ -1,4 +1,4 @@
-# MATH Modeling Project
+#Modeling Project
 Analyzing top MLB pitchers based on velocity and break
 
 
