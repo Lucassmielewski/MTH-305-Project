@@ -1,4 +1,4 @@
-# MTH 305 Project
+# MATH Modeling Project
 Analyzing top MLB pitchers based on velocity and break
 
 
